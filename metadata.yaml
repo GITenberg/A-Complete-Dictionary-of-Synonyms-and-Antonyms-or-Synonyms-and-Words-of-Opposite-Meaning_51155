@@ -1,0 +1,26 @@
+_repo: A-Complete-Dictionary-of-Synonyms-and-Antonyms-or-Synonyms-and-Words-of-Opposite-Meaning_51155
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fallows, Samuel
+    birthdate: 1835
+    deathdate: 1922
+    gutenberg_agent_id: '31963'
+    url: http://www.gutenberg.org/2009/agents/31963
+description: ''
+gutenberg_issued: '2016-02-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51155'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English language -- 19th century -- Synonyms and antonyms'
+- !lcc 'PE'
+- GITenberg
+title: 'A Complete Dictionary of Synonyms and Antonyms
+
+  or, Synonyms and Words of Opposite Meaning'
+url: http://www.gutenberg.org/ebooks/51155
